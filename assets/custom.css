@@ -1,1 +1,15 @@
 /* Place custom css here. */
+@media (max-width:480px) {
+    .wrap-flex {
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+}
+
+img[src$='#center'] {
+    display: block;
+    margin: 1.0rem auto;
+    max-width: 100%;
+    height: auto;
+}
