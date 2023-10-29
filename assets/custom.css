@@ -17,3 +17,8 @@ img[src$='#center'] {
 .mt-header {
     margin-top: 0.8888889em;
 }
+
+.project-thumbnail {
+    width: 100px;
+    margin: 0 auto;
+}
